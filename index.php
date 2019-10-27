@@ -1,3 +1,3 @@
-<?php indlude('includes/header.php'); ?>
+<?php indlude('/includes/header.php'); ?>
 
-<?php include('includes/footer.php'); ?>
+<?php include('/includes/footer.php'); ?>
