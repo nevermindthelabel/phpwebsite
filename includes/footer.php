@@ -17,7 +17,7 @@
         Closed
     </div>
 </div>
-<small>&copy; <?php echo date('Y') ?>
+<small>&copy; <?php echo date('Y'); ?>
     </div>
     </div>
     </div>

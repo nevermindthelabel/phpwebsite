@@ -17,6 +17,4 @@ $navItems = array(
         "slug" => "contact.php",
         "title" => "Contact",
     ),
-);
-
-?>
+)
